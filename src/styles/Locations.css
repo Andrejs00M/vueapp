@@ -1,0 +1,40 @@
+@import "leaflet/dist/leaflet.css";
+
+.map-wrapper {
+    width: 100%;
+    height: 500px;
+}
+
+.search-field {
+    padding: 24px;
+}
+
+.control {
+    margin: 8px;
+}
+
+.select-list {
+    list-style-type: none;
+    border-top: 1px solid black;
+    padding: 0;
+    overflow: auto;
+    max-height: 200px;
+    width: 50%;
+    display: inline-block;
+}
+
+.record {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    height: 25px;
+}
+
+.record:hover {
+    background-color: lightyellow;
+    cursor: pointer;
+}
+
+.red-alert {
+    color: red;
+}

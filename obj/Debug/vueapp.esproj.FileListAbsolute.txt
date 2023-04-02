@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\Vietas\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Vietas\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
